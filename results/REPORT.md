@@ -10,7 +10,7 @@ The local JSON round-trip demo used the first real Fashion-MNIST test image:
 true label **Ankle boot**, predicted
 **Ankle boot**, confidence 0.9961.
 The JSON inference result matches a direct interpreter call. Invalid out-of-range
-pixel values are rejected. Local encode/decode/inference time: 0.532 ms;
+pixel values are rejected. Local encode/decode/inference time: 1.014 ms;
 this excludes broker/WiFi/board delays and is not network latency.
 
 MQTT defaults to a local broker, with configurable broker/port, TLS and credentials
