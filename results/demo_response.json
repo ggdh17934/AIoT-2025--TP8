@@ -1,0 +1,8 @@
+{
+  "device_id": "esp-demo",
+  "request_id": 1,
+  "class_index": 9,
+  "class_name": "Ankle boot",
+  "probability": 0.99609375,
+  "server_inference_ms": 0.17700000171316788
+}

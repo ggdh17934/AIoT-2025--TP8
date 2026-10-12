@@ -1,0 +1,14 @@
+{
+  "broker": "temporary localhost AMQTT",
+  "port": 18885,
+  "round_trip_ms": 5.6887999999162275,
+  "response": {
+    "device_id": "validation-tp8",
+    "request_id": 991,
+    "class_index": 9,
+    "class_name": "Ankle boot",
+    "probability": 0.99609375,
+    "server_inference_ms": 0.3417000007175375
+  },
+  "scope": "real host MQTT transport, not ESP32 or WiFi"
+}
